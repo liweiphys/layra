@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[392],{1529:l=>{l.exports=JSON.parse('{"tags":[{"label":"LAYRA","permalink":"/layra/blog/tags/layra","description":"LAYRA tag","count":1},{"label":"Hello","permalink":"/layra/blog/tags/hello","description":"Hello tag","count":1}]}')}}]);

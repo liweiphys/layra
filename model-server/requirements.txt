@@ -1,5 +1,0 @@
-fastapi[all]==0.115.11
-pydantic_settings==2.8.1
-gunicorn==23.0.0
-uvicorn[standard]==0.34.0
-colpali_engine==0.3.10

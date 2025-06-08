@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liweiphys.github.io/layra/blog</id>
+    <title>LAYRA Blog</title>
+    <updated>2025-06-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liweiphys.github.io/layra/blog"/>
+    <subtitle>LAYRA Blog</subtitle>
+    <icon>https://liweiphys.github.io/layra/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://liweiphys.github.io/layra/blog/welcome</id>
+        <link href="https://liweiphys.github.io/layra/blog/welcome"/>
+        <updated>2025-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Code Without Limits, Build Without Boundaries"]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>"Code Without Limits, Build Without Boundaries"</strong></p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-welcome-to-layra">👋 Welcome to LAYRA!<a href="https://liweiphys.github.io/layra/blog/welcome#-welcome-to-layra" class="hash-link" aria-label="Direct link to 👋 Welcome to LAYRA!" title="Direct link to 👋 Welcome to LAYRA!">​</a></h2>
+<p>To all new explorers joining us: <strong>Welcome aboard!</strong> You're about to experience a fundamentally new approach to AI automation. Whether you're building document processors, agent workflows, or experimenting with visual AI, we've designed LAYRA to be:</p>
+<ul>
+<li><strong>Instant to start</strong> - Single-command Docker deployment</li>
+<li><strong>Open to all</strong> - Apache 2.0 licensed and community-driven</li>
+<li><strong>Ready to extend</strong> - Python-powered workflows from day one</li>
+</ul>
+<!-- -->
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-i-built-a-visual-first-ai-revolution">Why I Built a Visual-First AI Revolution<a href="https://liweiphys.github.io/layra/blog/welcome#why-i-built-a-visual-first-ai-revolution" class="hash-link" aria-label="Direct link to Why I Built a Visual-First AI Revolution" title="Direct link to Why I Built a Visual-First AI Revolution">​</a></h2>
+<p>As a developer working with document AI systems, I kept hitting the same frustrating walls:</p>
+<ol>
+<li><strong>Layout amnesia</strong> - Traditional RAG systems would shred beautiful documents into unstructured text, destroying tables, diagrams, and visual hierarchy</li>
+<li><strong>Workflow paralysis</strong> - Existing "AI agents" couldn't handle complex nested logic, human-in-the-loop, or real Python execution</li>
+<li><strong>OCR blindness</strong> - Critical visual context got lost in translation between pixels and tokens</li>
+</ol>
+<p>The breaking point came when I watched an AI system completely misinterpret a financial report because it couldn't:</p>
+<ul>
+<li>Preserve tabular relationships</li>
+<li>Recognize handwritten annotations</li>
+<li>Understand the semantic flow between diagrams and text</li>
+</ul>
+<p>That's when I realized: <strong>AI needs to see like humans to think like humans.</strong> So I built LAYRA - the world's first visual-native AI agent engine.</p>
+<hr>
+<blockquote>
+<p>"LAYRA doesn't just retrieve information - it sees, understands, and acts."</p>
+<p><em>Founder, LAYRA Project</em></p>
+</blockquote>]]></content>
+        <author>
+            <name>Wei Li(李威)</name>
+            <uri>https://github.com/liweiphys</uri>
+        </author>
+        <category label="LAYRA" term="LAYRA"/>
+        <category label="Hello" term="Hello"/>
+    </entry>
+</feed>
