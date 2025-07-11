@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/liweiphys-layra-badge.png)](https://mseep.ai/app/liweiphys-layra)
+
 <div align="center">
   <img src="./assets/logo.png" width="300" height="300" alt="LAYRA Logo" />
   <h1>🌌 LAYRA: Next Generation AI Agent Engine That Sees, Understands & Acts</h1>
